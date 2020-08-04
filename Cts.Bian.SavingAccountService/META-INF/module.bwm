@@ -133,6 +133,9 @@
   <sca:property xmi:id="_f9FOcL0jEeqxqcvV61gWcw" name="BW.CLOUD.PORT" type="XMLSchema:int" scalable="true"/>
   <sca:property xmi:id="_f9OYYL0jEeqxqcvV61gWcw" name="BW.MODULE.NAME" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_xNOk8L1BEeq6quKE4aLAMA" name="SERVICE_NAME" type="XMLSchema:string" publicAccess="true" scalable="true"/>
+  <sca:property xmi:id="_lF3gkNZmEeqpmqgSuZoVIw" name="BW.DEPLOYMENTUNIT.TYPE" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_lGdWcNZmEeqpmqgSuZoVIw" name="BW.DOMAIN.NAME" type="XMLSchema:string" scalable="true"/>
+  <sca:property xmi:id="_lGdWcdZmEeqpmqgSuZoVIw" name="BW.APPSPACE.NAME" type="XMLSchema:string" scalable="true"/>
   <sca:property xmi:id="_4usRML3DEeqo-_vY-M229A" name="/DataBaseConnection/DB_USERNAME" type="XMLSchema:string" publicAccess="true" scalable="true"/>
   <sca:property xmi:id="_7YTXwL3DEeqo-_vY-M229A" name="/DataBaseConnection/DB_PASSWORD" type="property:password" scaext:simpleValue="#!ZvRpDxfoPUc4nlIbodwi/w==" publicAccess="true" scalable="true"/>
   <sca:property xmi:id="_7bsC8L3DEeqo-_vY-M229A" name="/DataBaseConnection/DB_DRIVER" type="XMLSchema:string" publicAccess="true" scalable="true"/>
